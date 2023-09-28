@@ -1,0 +1,28 @@
+.hero-banner {
+  background-color: var(--banner-blue);
+  height: 50vh;
+  width: 100%;
+  position: relative;
+  margin-bottom: 80px;
+}
+
+.perfil {
+  background: var(--white);
+  border: 2px solid var(--white);
+  border-radius: 50%;
+  left: 50%;
+  margin-top: -4%;
+  object-fit: cover;
+  padding: 9px;
+  position: absolute;
+  transform: translateX(-50%);
+  top: 50vh;
+  width: 130px;
+}
+
+@media screen and (max-width: 768px) {
+  .perfil {
+    margin-top: -17%;
+  }
+}
+  
