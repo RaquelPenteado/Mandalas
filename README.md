@@ -1,3 +1,6 @@
 # Mandalas
 ### Banner
-![image](https://github.com/RaquelPenteado/Mandalas/assets/82233997/af4c7e0d-e25d-4654-900e-3601ffb91d9e)
+![image](https://github.com/RaquelPenteado/Mandalas/assets/82233997/54bd6c53-2d89-42a4-a02f-d4cd7b63317b)
+
+### Menu
+![image](https://github.com/RaquelPenteado/Mandalas/assets/82233997/433d9756-5640-4519-81f5-8b09442ebba7)
