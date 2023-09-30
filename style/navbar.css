@@ -1,0 +1,15 @@
+.navbar ul {
+    display: flex;
+    font-size: 20px;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.navbar li {
+    cursor: pointer;
+}
+
+.link:hover, .click {
+    border-bottom: 3px solid var(--scroll-blue);
+    border-bottom-left-radius: 3px;
+}

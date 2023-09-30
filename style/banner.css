@@ -3,7 +3,7 @@
   height: 50vh;
   width: 100%;
   position: relative;
-  margin-bottom: 80px;
+  margin-bottom: 120px;
 }
 
 .perfil {
@@ -11,18 +11,26 @@
   border: 2px solid var(--white);
   border-radius: 50%;
   left: 50%;
-  margin-top: -4%;
+  margin-top: -7%;
   object-fit: cover;
   padding: 9px;
   position: absolute;
   transform: translateX(-50%);
   top: 50vh;
-  width: 130px;
+  width: 200px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 686px) {
   .perfil {
-    margin-top: -17%;
+    margin-top: -22%;
+    width: 150px;
+  }
+}
+
+@media screen and (min-width: 687px) and (max-width: 1023px) {
+  .perfil {
+    margin-top: -12%;
+    width: 170px;
   }
 }
   
