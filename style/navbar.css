@@ -1,15 +1,15 @@
 .navbar ul {
-    display: flex;
-    font-size: 20px;
-    justify-content: space-evenly;
-    list-style-type: none;
+	display: flex;
+	font-size: 20px;
+	justify-content: space-evenly;
+	list-style-type: none;
 }
 
 .navbar li {
-    cursor: pointer;
+	cursor: pointer;
 }
 
 .link:hover, .click {
-    border-bottom: 3px solid var(--scroll-blue);
-    border-bottom-left-radius: 3px;
+	border-bottom: 3px solid var(--scroll-blue);
+	border-bottom-left-radius: 3px;
 }
