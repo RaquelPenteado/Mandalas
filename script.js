@@ -6,6 +6,8 @@ items.forEach(function(li) {
       item.classList.remove('click');
     });
     li.classList.toggle('click');
+    var container = document.querySelector("#grid-container");
+    container.classList.toggle('hidden');
   });
 });
 
