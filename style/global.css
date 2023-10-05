@@ -9,6 +9,7 @@
     --banner-blue: #94e7ff;
     --scroll-blue: #006691;
     --white: #ffffff;
+    --black: rgb(30, 29, 29);
 }
 
 ::-webkit-scrollbar {

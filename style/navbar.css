@@ -5,8 +5,9 @@
 	list-style-type: none;
 }
 
-.navbar li {
-	cursor: pointer;
+.navbar a {
+	color: var(--black);
+	text-decoration: none;
 }
 
 .link:hover, .click {

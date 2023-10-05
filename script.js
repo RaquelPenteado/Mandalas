@@ -6,8 +6,6 @@ items.forEach(function(li) {
       item.classList.remove('click');
     });
     li.classList.toggle('click');
-    var container = document.querySelector("#grid-container");
-    container.classList.toggle('hidden');
   });
 });
 
@@ -20,7 +18,7 @@ var images = [
   'mandalas/black-white-three.jpeg',
 ];
 
-var container = document.getElementById("grid-container");
+var container = document.getElementById("MandalasPage");
 
 for (var i = 0; i < images.length; i++) {
   var cell = document.createElement("div");
