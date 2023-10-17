@@ -1,5 +1,5 @@
 .hero-banner {
-  background-color: var(--banner-blue);
+  background-image: url("../assets/banner.png");
   height: 50vh;
   width: 100%;
   position: relative;
