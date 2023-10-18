@@ -16,6 +16,8 @@ var images = [
   'mandalas/black-white-circle.jpeg',
   'mandalas/black-white-flowers.jpeg',
   'mandalas/black-white-three.jpeg',
+  'mandalas/black-white-flower.png',
+  'mandalas/black-white-column.png',
 ];
 
 var container = document.getElementById("MandalasPage");

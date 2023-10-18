@@ -1,17 +1,12 @@
 .container {
-	background: rgba(148, 231, 255, 0.3);
-	border-radius: 12px;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 	display: grid;
-	gap: 30px;
-	grid-template-columns: 1fr 1fr 1fr;
+	gap: 20px;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
 	grid-template-rows: repeat(2, 1fr);
-	margin: 80px;
-	padding: 60px;
+	padding: 100px;
 }
 
 .item {
-	padding: 25px;
 	text-align: center;
 }
 
